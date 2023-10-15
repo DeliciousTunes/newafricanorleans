@@ -34,7 +34,7 @@
       "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
-    "name": "Site-10-15_0953",
+    "name": "N.A.O",
     "versionFirst": "5.6.11",
     "siteFonts": [
       {
@@ -44,6 +44,16 @@
       }
     ],
     "imageResize": true,
+    "favicon": "@PROJECT_PATH@/assets/images/image00004-128x192.png",
+    "mbrsiteDomain": "gap1wufcvq",
+    "cssOptimize": false,
+    "lazyLoad": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
     "uniqCompNum": 0,
     "versionPublish": "5.6.11"
   },
@@ -51,11 +61,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "NAO",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "socialSharingUrl": ""
       },
       "components": [
         {
